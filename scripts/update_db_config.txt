@@ -1,0 +1,2 @@
+#!/bin/bash
+cp /opt/uipldocs/database.php /var/www/html/uipldocs/
